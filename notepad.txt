@@ -1,6 +1,2 @@
 ghghhgh
-<<<<<<< HEAD
-hhjjhhj
-=======
-hasdasdad
->>>>>>> b56ad754b60b37d8bbea7766d171da95c1350963
+ghghghgh
